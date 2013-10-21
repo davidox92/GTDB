@@ -46,7 +46,7 @@ UPDATE locales_creature_text SET text_loc8=NULL;
 INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `text_loc2`, `text_loc3`, `text_loc4`, `text_loc5`, `text_loc6`, `text_loc7`, `text_loc8`) VALUES
 	(197, 0, 0, '', '', 'Du bist entlassen, $N.', '', '', '', '', ''),
 	(253, 0, 0, '', '', 'Dies sollte nicht lange dauern...', '', '', '', '', ''),
-	(253, 1, 0, '', '', 'Der unsichtbarkeits Lik&ouml;r ist f&uuml;r euch bereit, $N.', '', '', '', '', ''),
+	(253, 1, 0, '', '', 'Der unsichtbarkeits Likör ist für euch bereit, $N.', '', '', '', '', ''),
 	(352, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(523, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(931, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
