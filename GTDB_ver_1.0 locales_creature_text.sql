@@ -60,6 +60,22 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(2389, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(2391, 0, 0, '', '', 'Whoops!', '', '', '', '', ''),
 	(2409, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
-	(2432, 0, 0, '', '', 'Wachen!', '', '', '', '', '');
+	(2432, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
+	(2768, 0, 0, '', '', 'Ok, $N. Folgt mir zu der Höhle wo ich versuchen werde die Energie des Runensteines in diese Schutzbrille zu bannen.', '', '', '', '', ''),
+	(2768, 1, 0, '', '', 'Ich entdeckte diese Höhle an unserem ersten Tag hier. Ich glaube, dass die Energie in dem Stein zu unserem Vorteil verwendet werden kann.', '', '', '', '', ''),
+	(2768, 2, 0, '', '', 'Ich beginne jetzt damit die Energie von diesem Stein anzuzapfen. Euer Job, $N, ist es mich zu beschützen. Dieser Ort ist verflucht... glaubt mir.', '', '', '', '', ''),
+	(2768, 3, 0, '', '', '%s beginnt damit, mit der Schutzbrille vor dem Stein herum zu basteln.', '', '', '', '', ''),
+	(2768, 4, 0, '', '', 'Hilfe!!! Haltet diese Dinger fern von mir, sodass ich meine Arbeit beenden kann!', '', '', '', '', ''),
+	(2768, 5, 0, '', '', 'Fast fertig! Nur noch ein bisschen länger!', '', '', '', '', ''),
+	(2768, 6, 0, '', '', 'Ich habs geschafft! Ich habe die Energie des Steines in diese Schutzbrille gebunden! Lasst uns hier verschwinden!', '', '', '', '', ''),
+	(2768, 7, 0, '', '', 'Phew! Ich bin froh, dass wir heil aus dieser gruseligen Höhle raus sind.', '', '', '', '', ''),
+	(2768, 8, 0, '', '', '%s händigt eine glühende Schutzbrille an Doktor Drechselknacks aus.', '', '', '', '', ''),
+	(2768, 9, 0, '', '', 'Doktor Drechselknacks wird euch weitere Anweisungen geben, $N. Vielen Dank für eure Hilfe!', '', '', '', '', ''),
+	(2835, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
+	(2851, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
+	(2858, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
+	(2859, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
+	(2861, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
+	(2941, 0, 0, '', '', 'Wachen!', '', '', '', '', '');
     
 SET NAMES 'latin1';
