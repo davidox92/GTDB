@@ -33,20 +33,12 @@ GTDB = German Trinity Database übersetzt die Datenbank von Trinity ins Deutsche
 Hinweise zur Installation der deutschen Texte für Trinity.
 
 
-1. Englische Datenbank installieren:
-   Entweder die UDB + UDB-to-trinity Konverter oder TDB
-   (Installationshinweise sind in den entsprechenden Foren zu finden)
-   Bitte auch darauf achten, dass alle notwendigen SQL-Updates bis zur
-   verwendeten Core-Revison und _anschließend_ die SQL-Scripte aus dem FULL 
-   Verzeichnis eingespielt wurden. Die vorhandenen HowTo's machen da 
-   leider teilweise falsche Angaben.
-   Anmerkung: Die aktuelle TDB benötigt die "FULL" scripte nicht mehr.
+1. Downloade dir die Source mit "git clone git://github.com/KaefGAMES/GTDB.git"
+   und gehe anschließend in den Ordner.
 
-2. Alle SQL-Scripte aus diesem Ordner einspielen
-   (Entweder per Hand oder mit dem GTDB_Batcher)
-   ACHTUNG die Datei locales_gossip_menu_option_tdb.sql muss nach der Datei
-   locales_gossip_menu_option.sql eingespielt werden !!!
+2. Starte dein bevorzugtes SQL Programm (ich empfehle für die Einspielung von
+   Übersetzungen SQLyog (läuft besser und macht keine Fehler beim Einspielen!)
+   Nach der Fertigstellung, lösche deinen Cache Ordner (immer empfohlen) und 
+   die Übersetzungen müssten sichtbar sein.
 
-Der Schritt 2 kann jederzeit wiederholt werden, ohne das es zu 
-Datenverlusten oder Fehlern kommt. 
-Dies ist insbesondere nach Updates vom Core oder von GTDB sinnvoll.
+Der Schritt 2 sollte bei Updates (GTDB) wiederholt werden.
