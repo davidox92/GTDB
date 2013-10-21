@@ -79,7 +79,7 @@ INSERT INTO `creature_text` (`entry`, `groupid`, `id`, `text`, `type`, `language
 	(2941, 0, 0, 'Wachen!', 14, 7, 100, 0, 0, 0, 'Lanie Reed'),
 	(2991, 0, 0, '%s gestures to the pitcher of water sitting on the edge of the well.', 16, 0, 100, 0, 0, 0, 'Greatmother Hawkwind'),
 	(2995, 0, 0, 'Wachen!', 14, 1, 100, 0, 0, 0, 'Tal'),
-	(3301, 1, 0, 'Mein Schwert Archeus diente mir einst im Leben, da nun endlich meinen Geist aus dieser unglücklichen Existenz passieren kann, brauche ich es nicht länger.', 12, 0, 100, 0, 0, 0, 'Morgan Ladimore - A Daughter\'s Love'),
+	(3301, 1, 0, 'Mein Schwert Archeus diente mir einst im Leben, da nun endlich mein Geist aus dieser unglücklichen Existenz passieren kann, brauche ich es nicht länger.', 12, 0, 100, 0, 0, 0, 'Morgan Ladimore - A Daughter\'s Love'),
 	(3301, 2, 0, 'I shall cling to the love of my daugter and hope that I will find forgiveness under the Light for my sins.', 12, 0, 100, 0, 0, 0, 'Morgan Ladimore - A Daughter\'s Love'),
 	(3305, 0, 0, 'Wachen!', 14, 1, 100, 0, 0, 0, 'Grisha'),
 	(3310, 0, 0, 'Wachen!', 14, 1, 100, 0, 0, 0, 'Doras'),
