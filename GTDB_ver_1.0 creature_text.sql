@@ -21,6 +21,15 @@
 # You should have received a copy of the GNU General Public License	    #
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.     #
 #############################################################################
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
+-- DO NOT USE THIS SQL ATM!!!!
 
 -- creates the table if not exists!
 CREATE TABLE IF NOT EXISTS `creature_text` (
