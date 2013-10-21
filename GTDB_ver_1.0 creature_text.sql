@@ -22,6 +22,8 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.     #
 #############################################################################
 
+SET NAMES 'utf8';
+
 -- creates the table if not exists!
 CREATE TABLE IF NOT EXISTS `creature_text` (
   `entry` mediumint(8) unsigned NOT NULL DEFAULT '0',
@@ -7206,3 +7208,5 @@ INSERT INTO `creature_text` (`entry`, `groupid`, `id`, `text`, `type`, `language
 	(21504, 6, 0, 'I think that we should teach a lesson to both the Horde and the Alliance. One that they will not soon forget!', 12, 0, 100, 0, 0, 0, 'Pathaleon the Calculators Image'),
 	(21504, 7, 0, 'See to it that you do, Sharth, or I will personally see to your slow torture and death.', 12, 0, 100, 0, 0, 0, 'Pathaleon the Calculators Image'),
 	(21504, 8, 0, 'I believe I may recognize them. Deal with this quickly, Sharth. Then take the mana bomb and destroy their town!', 12, 0, 100, 0, 0, 0, 'Pathaleon the Calculators Image');
+
+SET NAMES 'latin1';
