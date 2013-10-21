@@ -22,8 +22,6 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.     #
 #############################################################################
 
-SET NAMES 'utf8';
-
 -- creates the table if not exists!
 CREATE TABLE IF NOT EXISTS `creature_text` (
   `entry` mediumint(8) unsigned NOT NULL DEFAULT '0',
@@ -85,9 +83,9 @@ INSERT INTO `creature_text` (`entry`, `groupid`, `id`, `text`, `type`, `language
 	(3301, 2, 0, 'I shall cling to the love of my daugter and hope that I will find forgiveness under the Light for my sins.', 12, 0, 100, 0, 0, 0, 'Morgan Ladimore - A Daughter\'s Love'),
 	(3305, 0, 0, 'Wachen!', 14, 1, 100, 0, 0, 0, 'Grisha'),
 	(3310, 0, 0, 'Wachen!', 14, 1, 100, 0, 0, 0, 'Doras'),
-	(3389, 0, 0, 'Beware, $N! Look to the west!', 12, 0, 100, 1, 0, 0, 'Regthar Deathgate: quest start'),
-	(3389, 1, 0, 'A defender has fallen!', 12, 0, 100, 1, 0, 0, 'Regthar Deathgate: Horde Defender death'),
-	(3584, 0, 0, 'Ok, let\'s go!', 12, 0, 100, 0, 0, 0, 'Therylune'),
+	(3389, 0, 0, 'Vorsicht, $N! Schau in den Westen!', 12, 0, 100, 1, 0, 0, 'Regthar Deathgate: quest start'),
+	(3389, 1, 0, 'Ein Verteidiger ist gefallen!', 12, 0, 100, 1, 0, 0, 'Regthar Deathgate: Horde Defender death'),
+	(3584, 0, 0, 'Ok, auf geht\'s!', 12, 0, 100, 0, 0, 0, 'Therylune'),
 	(3584, 1, 0, 'I can make it the rest of the way, $N. Thanks!', 12, 0, 100, 0, 0, 0, 'Therylune'),
 	(3615, 0, 0, 'Wachen!', 14, 1, 100, 0, 0, 0, 'Devrak'),
 	(3627, 0, 0, 'Magical studies stressing your brain? Relax at the Blue Recluse!', 12, 7, 100, 0, 0, 0, 'Erich Lohan'),
@@ -7208,5 +7206,3 @@ INSERT INTO `creature_text` (`entry`, `groupid`, `id`, `text`, `type`, `language
 	(21504, 6, 0, 'I think that we should teach a lesson to both the Horde and the Alliance. One that they will not soon forget!', 12, 0, 100, 0, 0, 0, 'Pathaleon the Calculators Image'),
 	(21504, 7, 0, 'See to it that you do, Sharth, or I will personally see to your slow torture and death.', 12, 0, 100, 0, 0, 0, 'Pathaleon the Calculators Image'),
 	(21504, 8, 0, 'I believe I may recognize them. Deal with this quickly, Sharth. Then take the mana bomb and destroy their town!', 12, 0, 100, 0, 0, 0, 'Pathaleon the Calculators Image');
-
-SET NAMES 'latin1';
