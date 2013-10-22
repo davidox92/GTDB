@@ -36,6 +36,7 @@ UPDATE locales_creature_text SET text_loc5=NULL;
 UPDATE locales_creature_text SET text_loc6=NULL;
 UPDATE locales_creature_text SET text_loc7=NULL;
 UPDATE locales_creature_text SET text_loc8=NULL;
+DELETE FROM `locales_creature_text`;
 -- updates for tables
 INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `text_loc2`, `text_loc3`, `text_loc4`, `text_loc5`, `text_loc6`, `text_loc7`, `text_loc8`) VALUES
 	(197, 0, 0, '', '', 'Du bist entlassen, $N.', '', '', '', '', ''),
