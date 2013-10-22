@@ -24,7 +24,6 @@
 -- DO NOT USE THIS SQL ATM!!!!
 -- DO NOT USE THIS SQL ATM!!!!
 
-SET NAMES 'utf8';
 
 #####	creature_text	#####
 -- deletions of older content...deletes all entrys before adding the new ones!
@@ -38,6 +37,7 @@ UPDATE locales_creature_text SET text_loc7=NULL;
 UPDATE locales_creature_text SET text_loc8=NULL;
 DELETE FROM `locales_creature_text`;
 -- updates for tables
+SET NAMES 'utf8';
 INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `text_loc2`, `text_loc3`, `text_loc4`, `text_loc5`, `text_loc6`, `text_loc7`, `text_loc8`) VALUES
 	(197, 0, 0, '', '', 'Du bist entlassen, $N.', '', '', '', '', ''),
 	(253, 0, 0, '', '', 'Dies sollte nicht lange dauern...', '', '', '', '', ''),
@@ -72,5 +72,5 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(2859, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(2861, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(2941, 0, 0, '', '', 'Wachen!', '', '', '', '', '');
-    
+-- end of insertion!   
 SET NAMES 'latin1';
