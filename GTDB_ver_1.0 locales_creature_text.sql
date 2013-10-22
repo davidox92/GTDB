@@ -148,7 +148,7 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(9524, 0, 0, '', '', 'Kolkar Invader charges!', '', '', '', '', ''),
 	(9546, 0, 0, '', '', 'Oh man, I thought I was dead for sure. Ugh... still dizzy...', '', '', '', '', ''),
 	(9546, 1, 0, '', '', 'I can get back to the Stronghold on my own, I think. Now that you bought me some time, I should be able to stealth out of here. Who ever you are... thank you. May Elune bless you always!', '', '', '', '', ''),
-	(9564, 0, 0, '', '', 'The zeppelin to Undercity has just arrived! All aboard for Tirisfal Glades!', '', '', '', '', ''),
+	(9564, 0, 0, '', '', 'Der Zeppelin nach Unterstadt ist jetzt angekommen! Alle an Board die nach Tirisfal möchten!', '', '', '', '', ''),
 	(10378, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(10897, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(11138, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
