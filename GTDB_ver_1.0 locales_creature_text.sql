@@ -74,7 +74,7 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(2941, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(2991, 0, 0, '', '', '%s gestures to the pitcher of water sitting on the edge of the well.', '', '', '', '', ''),
 	(2995, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
-	(3301, 1, 0, '', '', 'My sword Archeus served me well in life, but as at last my spirit may pass from the unhappy existence, I need it no longer.', '', '', '', '', ''),
+	(3301, 1, 0, '', '', 'Mein Schwert Archeus diente mir einst im Leben, da nun endlich meinen Geist aus dieser unglücklichen Existenz passieren kann, brauche ich es nicht länger.', '', '', '', '', ''),
 	(3301, 2, 0, '', '', 'I shall cling to the love of my daugter and hope that I will find forgiveness under the Light for my sins.', '', '', '', '', ''),
 	(3305, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(3310, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
