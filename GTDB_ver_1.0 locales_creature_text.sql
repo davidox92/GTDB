@@ -23,7 +23,6 @@
 -- DO NOT USE THIS SQL ATM!!!!
 -- DO NOT USE THIS SQL ATM!!!!
 -- DO NOT USE THIS SQL ATM!!!!
--- Codey Test Text
 
 
 #####	creature_text	#####
