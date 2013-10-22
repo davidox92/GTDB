@@ -1,11 +1,4 @@
 #############################################################################
-#####									#####
-#####         GGGGGGGG	  TTTTTTTTTT     DDDDDDD    BBBBBBB 		#####
-#####        GG      	      TT         D     DD   B      B   		#####
-#####       GG    GGG	      TT         D      D   BBBBBBB    		#####
-#####        GG     GG	      TT         D     DD   B      B   		#####
-#####         GGGGGGG	      TT         DDDDDDD    BBBBBBB    		#####
-#############################################################################
 # Copyright (C) 2013 KaefGAMES <http://www.kaefgames.de>      #
 #									    #
 # This program is free software: you can redistribute it and/or modify      #
@@ -34,7 +27,7 @@
 SET NAMES 'utf8';
 
 #####	creature_text	#####
--- some updates for the creature_text (script_text)
+-- deletions of older content...deletes all entrys before adding the new ones!
 UPDATE locales_creature_text SET text_loc1=NULL;
 UPDATE locales_creature_text SET text_loc2=NULL;
 UPDATE locales_creature_text SET text_loc3=NULL;
@@ -43,6 +36,7 @@ UPDATE locales_creature_text SET text_loc5=NULL;
 UPDATE locales_creature_text SET text_loc6=NULL;
 UPDATE locales_creature_text SET text_loc7=NULL;
 UPDATE locales_creature_text SET text_loc8=NULL;
+-- updates for tables
 INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `text_loc2`, `text_loc3`, `text_loc4`, `text_loc5`, `text_loc6`, `text_loc7`, `text_loc8`) VALUES
 	(197, 0, 0, '', '', 'Du bist entlassen, $N.', '', '', '', '', ''),
 	(253, 0, 0, '', '', 'Dies sollte nicht lange dauern...', '', '', '', '', ''),
