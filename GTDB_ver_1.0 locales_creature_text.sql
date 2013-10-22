@@ -180,7 +180,7 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(11351, 0, 2, '', '', 'Your skull gonna decorate our ritual altars!', '', '', '', '', ''),
 	(11351, 0, 3, '', '', 'I gonna make you into mojo!', '', '', '', '', ''),
 	(11351, 0, 4, '', '', 'Feel da big bad voodoo!', '', '', '', '', ''),
-    (11351, 0, 5, '', '', 'My weapon be thirsty!', '', '', '', '', ''),
+	(11351, 0, 5, '', '', 'My weapon be thirsty!', '', '', '', '', ''),
 	(11351, 0, 6, '', '', 'You be dead soon!', '', '', '', '', ''),
 	(11352, 0, 0, '', '', '%s goes into a frenzy!', '', '', '', '', ''),
 	(11355, 0, 0, '', '', '%s becomes enraged!', '', '', '', '', ''),
