@@ -72,5 +72,9 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(2859, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(2861, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(2941, 0, 0, '', '', 'Wachen!', '', '', '', '', '');
--- end of insertion!   
+-- end of insertion!  
+
+-- fix for bad entrys...
+UPDATE locales_creature_text SET text_loc3 = REPLACE( REPLACE( REPLACE( REPLACE( REPLACE( REPLACE(
+REPLACE(text_loc3, 'Ã¶', 'ö'), 'Ã?','Ö'), 'Ã¤','ä'),'Ã?','Ä'), 'Ã¼','ü'), 'Ã?','Ü'), 'Ã?', 'ß'); 
 SET NAMES 'latin1';
