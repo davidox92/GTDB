@@ -1686,7 +1686,7 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(21291, 4, 0, '', '', 'DO I HONESTLY LOOK THAT STUPID TO YOU, NAGA? NOW YOU FEEL PAIN!', '', '', '', '', ''),
 	(21291, 5, 0, '', '', '%s spits on the Coilskar naga.', '', '', '', '', ''),
 	(21291, 6, 0, '', '', 'GET UP YOU ROTTEN PIECE OF TRASH! GET UP BEFORE I END YOU!', '', '', '', '', ''),
-	(21291, 7, 0, '', '', 'I\'m listening...', 12, '', '', '', '', ''),
+	(21291, 7, 0, '', '', 'I\'m listening...', '', '', '', '', ''),
 	(21295, 0, 0, '', '', 'Whhaaat... are you sssspeaking of, ssssoft-sskin?', '', '', '', '', ''),
 	(21295, 1, 0, '', '', 'The naga do nottt... have thissss... cipherrr...', '', '', '', '', ''),
 	(21295, 2, 0, '', '', 'Yesss... Yesss... Ssset me freee...', '', '', '', '', ''),
