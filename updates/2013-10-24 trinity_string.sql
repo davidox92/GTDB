@@ -20,7 +20,7 @@ UPDATE `trinity_string` SET `content_loc3` = '+- Notiz: %s' WHERE `entry` = 851;
 UPDATE `trinity_string` SET `content_loc3` = '+- O. Notiz: %s' WHERE `entry` = 852;
 UPDATE `trinity_string` SET `content_loc3` = '| Spielzeit: %s' WHERE `entry` = 853;
 UPDATE `trinity_string` SET `content_loc3` = '+ Mails: %d Read/%I64u Total' WHERE `entry` = 854;
-UPDATE `trinity_string` SET `content_loc3` = 'Männlich' WHERE `entry` = 855;
+UPDATE `trinity_string` SET `content_loc3` = 'M&auml;nnlich' WHERE `entry` = 855;
 UPDATE `trinity_string` SET `content_loc3` = 'Weiblich' WHERE `entry` = 856;
 
 SET NAMES 'latin1';
