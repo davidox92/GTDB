@@ -209,7 +209,8 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(11831, 0, 6, '', '', 'Du tot sein bald!', '', '', '', '', ''),
 	(11899, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(11900, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
-	(11901, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
+	(11901, 0, 0, '', '', 'Wachen!', '', '', '', '', '');
+-- needs translation here...	
 	(11946, 0, 0, '', '', 'Stormpike filth! In my keep?! Slay them all!', '', '', '', '', ''),
 	(11946, 1, 0, '', '', 'You seek to draw the General of the Frostwolf legion out from his fortress? PREPOSTEROUS!', '', '', '', '', ''),
 	(11946, 2, 0, '', '', 'Stormpike weaklings, face me in my fortress - if you dare!', '', '', '', '', ''),
