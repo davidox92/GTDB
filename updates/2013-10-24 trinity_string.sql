@@ -1,5 +1,5 @@
 SET NAMES 'utf8';
-
+-- this update fixes the nasty crash if you're using .pinfo !
 UPDATE `trinity_string` SET `content_loc3` = '¦Spieler %s %s (guid: %u)' WHERE `entry` = 453;
 UPDATE `trinity_string` SET `content_loc3` = '¦ GM Modus aktiv, Phase: -1' WHERE `entry` = 548;
 UPDATE `trinity_string` SET `content_loc3` = '+- Gebannt: (Typ: %s, Grund: %s, Zeit: %s, Von: %s)' WHERE `entry` = 549;
