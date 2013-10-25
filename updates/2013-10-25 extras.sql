@@ -1,5 +1,5 @@
 SET NAMES 'utf8';
---nur benutzen, wenn du vor dem 25. Oktober 2013 die "GTDB_ver_1.0 extras.sql" bereits gebatcht hast!
+/* Nur benutzen, wenn du vor dem 25. Oktober 2013 die "GTDB_ver_1.0 extras.sql" bereits gebatcht hast! */
 UPDATE creature_ai_texts SET content_loc3='Völlig wirkungslos. So wie jemand anderes den Ich kenne.' WHERE entry=-74;
 UPDATE creature_ai_texts SET content_loc3='Füttert, mich bruddahs!' WHERE entry=-135; --klingt irgendwie verrückt...hat jemand eine bessere Idee für "Feed, me bruddahs!"?
 UPDATE creature_ai_texts SET content_loc3='Hör auf zu schreien!' WHERE entry=-136;
