@@ -215,7 +215,7 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(11946, 2, 0, '', '', 'Sturmlanzenschwächlinge, tretet mir in meiner Festung gegenüber - wenn ihr euch traut!', '', '', '', '', ''),
 	(11946, 3, 0, '', '', 'Ich glaube, eure Angriffe werden durch die Kälte verlangsamt!', '', '', '', '', ''),
 	(11946, 3, 1, '', '', 'Heute werdet ihr auf eure Ahnen treffen!', '', '', '', '', ''),
-	(11946, 3, 2, '', '', 'Ihr werdet das Alteractal nicht verlassen, denn dir Frostwölfe werden euch zerquetschen!', '', '', '', '', ''),
+	(11946, 3, 2, '', '', 'Ihr werdet das Alteractal nicht verlassen, denn die Frostwölfe werden euch zerquetschen!', '', '', '', '', ''),
 	(11946, 3, 3, '', '', 'Ihr könnt den Frostwolf Clan nicht besiegen!', '', '', '', '', ''),
 	(11946, 3, 4, '', '', 'Ihr seid der Stärke der Horde nicht gewachsen!', '', '', '', '', ''),
 	(11947, 0, 0, '', '', 'Sterbt! Für Euresgleichen gibt es keinen Platz im Alteractal!', '', '', '', '', ''),
