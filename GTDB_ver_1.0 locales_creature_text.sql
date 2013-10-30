@@ -15,14 +15,15 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.     #
 #############################################################################
 -- DO NOT USE THIS SQL ATM!!!!
+-- for working process only... ;)
 -- DO NOT USE THIS SQL ATM!!!!
+-- for working process only... ;)
 -- DO NOT USE THIS SQL ATM!!!!
+-- for working process only... ;)
 -- DO NOT USE THIS SQL ATM!!!!
+-- for working process only... ;)
 -- DO NOT USE THIS SQL ATM!!!!
--- DO NOT USE THIS SQL ATM!!!!
--- DO NOT USE THIS SQL ATM!!!!
--- DO NOT USE THIS SQL ATM!!!!
--- DO NOT USE THIS SQL ATM!!!!
+-- for working process only... ;)
 
 
 #####	creature_text	#####
