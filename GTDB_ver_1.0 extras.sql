@@ -817,6 +817,7 @@ UPDATE game_event SET description='Arenaturnier' WHERE eventEntry=31;
 UPDATE game_event SET description='L70ETC Konzert' WHERE eventEntry=32;
 UPDATE game_event SET description='Ruf zu den Waffen: Strand der Uralten' WHERE eventEntry=53;
 UPDATE game_event SET description='Ruf zu den Waffen: Insel der Eroberung!' WHERE eventEntry=54;
+UPDATE game_event SET description='Tag der Toten' WHERE eventEntry=51;
 
 #####	game_tele	#####
 
