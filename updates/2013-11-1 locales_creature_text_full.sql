@@ -207,15 +207,7 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(12858, 0, 0, '', '', 'Alle bereit?', '', '', '', '', ''),
 	(12858, 1, 0, '', '', 'Ok, Lasst uns gehen!', '', '', '', '', ''),
 	(12858, 2, 0, '', '', 'Macht euch bereit. Silberschwinge ist gleich um die Ecke.', '', '', '', '', ''),
-	(12858, 3, 0, '', '', 'Silberschwinge ist unser!', '', '', '', '', ''),
-	(12858, 4, 0, '', '', 'Geh berichten, dass der Außenposten eingenommen wurde. Wir werden hier warten.', '', '', '', '', ''),
-	(13177, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
-	(14354, 0, 0, '', '', 'Wenn du den Schlüssel willst, musst du mich schon einfangen!', '', '', '', '', ''),
-	(14354, 1, 0, '', '', 'Verfolge mich wenn du dich traust! Ich laufe ohne Sorgen!', '', '', '', '', ''),
-	(14354, 2, 0, '', '', 'Warum würdest du mir schaden wollen!? Komm. Wir können Freunde sein!', '', '', '', '', ''),
-	(14354, 3, 0, '', '', 'STIRB?! Du bringst Pusillin zum Weinen!', '', '', '', '', ''),
-	(14354, 4, 0, '', '', 'Sag hallo zu meinen kleinen Freunden!', '', '', '', '', ''),
-	(14368, 0, 0, '', '', 'Ich bezweifle sehr, dass er nichts zu sagen hat, Fremder...', '', '', '', '', '');
+	(12858, 3, 0, '', '', 'Silberschwinge ist unser!', '', '', '', '', '');
 -- fix for bad entrys...
 UPDATE locales_creature_text SET text_loc3 = REPLACE( REPLACE( REPLACE( REPLACE( REPLACE( REPLACE(
 REPLACE(text_loc3, 'Ã¶', 'ö'), 'Ã?','Ö'), 'Ã¤','ä'),'Ã?','Ä'), 'Ã¼','ü'), 'Ã?','Ü'), 'Ã?', 'ß'); 
