@@ -236,7 +236,7 @@ INSERT INTO `locales_creature_text` (`entry`, `groupid`, `id`, `text_loc1`, `tex
 	(11949, 0, 0, '', '', 'Hinfort, ungehobelter Abschaum! Die Allianz wird im Alteractal obsiegen!', '', '', '', '', ''),
 	(11949, 1, 0, '', '', 'Dreckige Frostwolffeiglinge! Wenn ihr kämpfen wollt, müsst ihr zu mir kommen!', '', '', '', '', ''),
 	(11949, 2, 0, '', '', 'Fasst Mut, Allianz! Werft diese Schurken aus dem Alteractal!', '', '', '', '', ''),
-	(12136, 0, 0, '', '', 'Der Zeppelin nach Grom'gol ist gerade eingetroffen! Alles einsteigen nach Schlingendorntal!', '', '', '', '', ''),
+	(12136, 0, 0, '', '', 'Der Zeppelin nach Grom\'gol ist gerade eingetroffen! Alles einsteigen nach Schlingendorntal!', '', '', '', '', ''),
 	(12577, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(12578, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
 	(12596, 0, 0, '', '', 'Wachen!', '', '', '', '', ''),
