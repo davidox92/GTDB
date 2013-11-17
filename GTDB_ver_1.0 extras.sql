@@ -1,13 +1,6 @@
 #############################################################################
-#####									#####
-#####         GGGGGGGG	  TTTTTTTTTT     DDDDDDD    BBBBBBB 		#####
-#####        GG      	      TT         D     DD   B      B   		#####
-#####       GG    GGG	      TT         D      D   BBBBBBB    		#####
-#####        GG     GG	      TT         D     DD   B      B   		#####
-#####         GGGGGGG	      TT         DDDDDDD    BBBBBBB    		#####
-#####  			      	 CREW					#####
-#############################################################################
 # Copyright (C) 2007-2009 GMDB <http://sourceforge.net/projects/gm-db>      #
+# Copyright (C) 2013      KaefGAMES <http://www.kaefgames.de>               #
 #									    #
 # This program is free software: you can redistribute it and/or modify      #
 # it under the terms of the GNU General Public License as published by      #
