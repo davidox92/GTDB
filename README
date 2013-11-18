@@ -27,7 +27,7 @@ GTDB / GADB
 Hinweise zur Installation der deutschen Texte für Trinity.
 
 
-1. Downloade dir die Source mit "git clone git://github.com/KaefGAMES/GTDB.git"
+1. Downloade dir die Source mit "git clone git://github.com/KaefGAMES/GTDB.git -b 4.3.4_Trinitycore"
    und gehe anschließend in den Ordner.
 
 2. Starte dein bevorzugtes SQL Programm (SQLyog wird empfohlen...)
