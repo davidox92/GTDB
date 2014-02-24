@@ -2285,6 +2285,39 @@ UPDATE locales_creature_text SET text_loc3="Valdred Moray, melde mich zum Dienst
 UPDATE locales_creature_text SET text_loc3="Ich verstehe. Nun gut, ab an die Arbeit, $N! Die Dunkle Fürstin braucht uns, richtig?" WHERE entry=49231 AND groupid=0 AND id=1;
 UPDATE locales_creature_text SET text_loc3="Hallo... Mordo... Bitte helft mir..." WHERE entry=50414 AND groupid=0 AND id=0;
 UPDATE locales_creature_text SET text_loc3="D-danke, T-totengräber." WHERE entry=50414 AND groupid=1 AND id=0;
+update locales_creature_text set text_loc3="Feuer, schenkt mir Hellsicht..." where entry=23975 and groupid=0 and id=0;	
+update locales_creature_text set text_loc3="Wasser, schenke mir Klarheit..." where entry=23975 and groupid=1 and id=0;		
+update locales_creature_text set text_loc3="%s inhaliert den feinen Rauch, den der glimmende Weihrauch verströhmt." where entry=23975 and groupid=2 and id=0;		
+update locales_creature_text set text_loc3="Ich danke euch, ihr Geister." where entry=23975 and groupid=3 and id=0;	
+update locales_creature_text set text_loc3="Orc töten!" where entry=49874 and groupid=0 and id=0;
+update locales_creature_text set text_loc3="Schwarzfels nehmen Wald!" where entry=49874 and groupid=0 and id=1;
+update locales_creature_text set text_loc3="Trauben waren WIRKLICH LECKER!" where entry=49874 and groupid=0 and id=2;
+update locales_creature_text set text_loc3="Bettelt um Euer Leben!" where entry=49874 and groupid=0 and id=3;
+update locales_creature_text set text_loc3="Verspeise Euch!" where entry=49874 and groupid=0 and id=4;
+update locales_creature_text set text_loc3="STERBT!!!" where entry=50039 and groupid=0 and id=0;
+update locales_creature_text set text_loc3="Zeit um Eure Freunde zu treffen, schluckt Staub!" where entry=50039 and groupid=0 and id=1;
+update locales_creature_text set text_loc3="Wir töten jeden für den richtigen Preis!" where entry=50039 and groupid=0 and id=2;
+update locales_creature_text set text_loc3="Wir werden diesen Ort bis auf die Grundmauern niederbrennen!" where entry=50039 and groupid=0 and id=3;
+update locales_creature_text set text_loc3="Orc töten!" where entry=42937 and groupid=0 and id=0;
+update locales_creature_text set text_loc3="Schwarzfels nehmen Wald!" where entry=42937 and groupid=0 and id=1;
+update locales_creature_text set text_loc3="Trauben waren WIRKLICH LECKER!" where entry=42937 and groupid=0 and id=2;
+update locales_creature_text set text_loc3="Bettelt um Euer Leben!" where entry=42937 and groupid=0 and id=3;
+update locales_creature_text set text_loc3="Verspeise Euch!" where entry=42937 and groupid=0 and id=4;
+update locales_creature_text set text_loc3="Kommt ihr Monster.! Wir werden euch zerquetschen!" where entry=49869 and groupid=0 and id=0;
+update locales_creature_text set text_loc3="Ich werde noch hunderte von euch töten!" where entry=49869 and groupid=0 and id=1;
+update locales_creature_text set text_loc3="Dort bewegt sich was, Männer! Es gibt Orks und Worgs überall!" where entry=@ENTRY and groupid=0 and id=2;
+update locales_creature_text set text_loc3="Ihr dreckigen Hunde werdet nicht genug sein!" where entry=49869 and groupid=0 and id=3;
+update locales_creature_text set text_loc3="Die Worgs hier sind kein Problem für die Macht von Sturmwind!" where entry=49869 and groupid=0 and id=4;
+update locales_creature_text set text_loc3="HILFE!" where entry=49869 and groupid=1 and id=0;
+update locales_creature_text set text_loc3="Ich könnte eine Heilung gebrauchen, Bruder!" where entry=49869 and groupid=1 and id=1;
+update locales_creature_text set text_loc3="Ich brauche Heilung!" where entry=49869 and groupid=1 and id=2;
+update locales_creature_text set text_loc3="Mach dich nützlich, Paxton und heile mich!" where entry=49869 and groupid=1 and id=3;
+update locales_creature_text set text_loc3="Seid gesegnet, $P" where entry=50378 and groupid=1 and id=0;
+update locales_creature_text set text_loc3="Ich lebe, um einen weiteren Tag zu kämpfen!" where entry=50378 and groupid=1 and id=1;
+update locales_creature_text set text_loc3="Ich fürchte mich vor keinem Übel!" where entry=50378 and groupid=1 and id=2;
+update locales_creature_text set text_loc3="Mir... Mir geht's gut!" where entry=50378 and groupid=1 and id=3;
+update locales_creature_text set text_loc3="Dank sei dem Licht" where entry=50378 and groupid=1 and id=4;
+update locales_creature_text set text_loc3="Ihr seid $P! Der Held von dem überall gesprochen wird! Ich danke Euch!" where entry=50378 and groupid=1 and id=5;
 -- end of insertion!  
 
 -- fix for bad entrys...
