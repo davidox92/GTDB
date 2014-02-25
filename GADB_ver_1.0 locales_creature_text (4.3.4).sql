@@ -1,5 +1,5 @@
 ﻿#############################################################################
-# Copyright (C) 2013 KaefGAMES <http://www.kaefgames.de>                    #
+# Copyright (C) 2013-2014 KaefGAMES Entertainment ® <http://www.kaefgames.de>#
 # Copyright (C) 2007-2013 GADB / GTDB									    #
 #									    									#
 # This program is free software: you can redistribute it and/or modify      #
