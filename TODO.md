@@ -7,10 +7,6 @@
 
 --
 
-Diese Liste ist sortiert nach der Wichtigkeit. Versuchen wir die Reihenfolge so gut es geht beizubehalten. :)
-
---
-
 
 ## Source-Files (Englisch)
 * Worgen-Startgebiet (http://ow.ly/uOlH6)
@@ -25,3 +21,8 @@ Diese Liste ist sortiert nach der Wichtigkeit. Versuchen wir die Reihenfolge so 
 * Zwergen-Startgebiet ()
 * Nachtelfen-Startgebiet ()
 * Draenei-Startgebiet ()
+
+--
+
+
+## Diese Liste ist sortiert nach der Wichtigkeit. Versuchen wir die Reihenfolge so gut es geht beizubehalten. :)
