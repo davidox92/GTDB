@@ -1,6 +1,7 @@
 ## To-do liste
 * Übersetzung aller Startgebiete
 * Fertigstellen der "locales_creature_text.sql"
+* Übersetzung von Tol Barad (Quests, NPC's usw.)
 
 ## FERTIG
 
