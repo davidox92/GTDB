@@ -1,9 +1,6 @@
 GTDB / GADB
 ============
 
-- Latest news: We're working hard to translate the full locales_creature_text.sql
-- Neuste Nachricht: Wir arbeiten momentan an der vollständigen Übersetzung unserer locales_creature_text.sql
-
 
 ################################################################################
 # Copyright (C) 2007-2012 GMDB / GTDB <http://sourceforge.net/projects/gt-db>  #
