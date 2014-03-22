@@ -4,7 +4,7 @@
 * Übersetzung von Tol Barad (Quests, NPC's usw.)
 
 ## FERTIG
-
+* Blutelfen Startgebiet
 
 --
 
@@ -16,7 +16,6 @@
 * Tauren-Startgebiet ()
 * Troll-Startgebiet ()
 * Untoten-Startgebiet ()
-* Blutelfen-Startgebiet ()
 * Menschen-Startgebiet ()
 * Gnomen-Startgebiet ()
 * Zwergen-Startgebiet ()
