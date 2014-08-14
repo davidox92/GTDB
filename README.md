@@ -25,7 +25,7 @@ Für weitere Informationen über KaefGAMES besuche bitte folgende Webseite:
 
 ## Installation
 
-+ Downloade dir die Source mit "git clone git://github.com/KaefGAMES/GTDB.git -b 4.3.4_ArkCORE" 
++ Downloade dir die Source mit "git clone git://github.com/KaefGAMES/GTDB.git" 
   und gehe anschließend in den Ordner.
 + Starte dein bevorzugtes SQL Programm (SQLyog wird empfohlen...)
   Nach der Fertigstellung, lösche deinen Cache Ordner (immer empfohlen) und 
